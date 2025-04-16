@@ -1,0 +1,44 @@
+site_name: Refreryo's Revolution
+site_url: https://yourusername.github.io/website-projekt/
+site_author: Your Name
+site_description: Official documentation for Refreryo's Revolution projects
+
+# Suchfunktion aktivieren
+plugins:
+  - search
+
+theme:
+  name: material
+  language: en
+  logo: assets/images/logo.png
+  favicon: assets/images/favicon.png
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - search.suggest
+    - search.highlight
+    - search.share
+  palette:
+    # Light-Mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: green
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    # Dark-Mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: green
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+# Navigation
+nav:
+  - Home: index.md
+  - Projects:
+    - DinoByte: projects/dinobyte.md
+    - GreenDino: projects/greendino.md
