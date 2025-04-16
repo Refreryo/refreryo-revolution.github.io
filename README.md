@@ -2,7 +2,7 @@
 
 ![Logo](docs/assets/images/logo.png)
 
-Documentation website for Refreryo's Revolution Discord bots, built with MkDocs.
+Documentation website for Refreryo's Revolution Discord bots.
 
 ## About
 
@@ -15,43 +15,24 @@ This repository contains the documentation for:
 - Detailed documentation of bot commands and features
 - Installation and setup guides
 - Command reference
-- FAQ and troubleshooting
+- FAQ
 
 ## Local Development
 
 ### Prerequisites
 
-- Python 3.6 or higher
-- pip (Python package manager)
+- Discord User-Account
+- Discord Server (with Permissions)
 
 ### Setup
 
-1. Clone this repository:
-   ```
-   git clone https://github.com/yourusername/website-projekt.git
-   cd website-projekt
-   ```
-
-2. Install MkDocs and the Material theme:
-   ```
-   pip install mkdocs mkdocs-material
-   ```
-
-3. Start the local development server:
-   ```
-   mkdocs serve
-   ```
-
-4. Open your browser and visit `http://localhost:8000` to preview the site
-
-## Deployment
-
-This site is automatically deployed using GitHub Pages whenever changes are pushed to the main branch.
+Follow the instruction and you will be good to go.
 
 ## Contact
 
 For questions or support:
 - Discord: refreryo
+- [ISSUES](https://github.com/Refreryo/refreryo-revolution/issues)
 
 ## License
 
