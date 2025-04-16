@@ -28,9 +28,9 @@ Follow the instruction and you will be good to go.
 
 ## Contact
 
-For questions or support:
+For questions / support / problems:
 - Discord: refreryo
-- [See the 'ISSUES' tab](https://github.com/Refreryo/refreryo-revolution/issues)
+- [See the 'ISSUES' tab or create an issue](https://github.com/Refreryo/refreryo-revolution/issues)
 
 ## License
 
