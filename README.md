@@ -17,7 +17,7 @@ This repository contains the documentation for:
 
 ## Local Development
 
-### Prerequisites
+### Requirements
 
 - Discord User-Account
 - Discord Server (with Permissions)
