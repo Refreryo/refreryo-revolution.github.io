@@ -1,6 +1,6 @@
 # Refreryo's Revolution
 
-![Logo](docs/assets/images/logo.png)
+![Logo](docs/assets/images/logo.png){.centered-logo}
 
 Documentation website for Refreryo's Revolution Discord bots.
 
@@ -32,7 +32,7 @@ Follow the instruction and you will be good to go.
 
 For questions or support:
 - Discord: refreryo
-- [ISSUES](https://github.com/Refreryo/refreryo-revolution/issues)
+- [See the 'ISSUES' tab](https://github.com/Refreryo/refreryo-revolution/issues)
 
 ## License
 
