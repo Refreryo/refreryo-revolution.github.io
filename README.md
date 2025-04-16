@@ -1,6 +1,4 @@
-# Refreryo's Revolution
-
-![Logo](docs/assets/images/logo.png){.centered-logo}
+# 🦖 Refreryo's Revolution
 
 Documentation website for Refreryo's Revolution Discord bots.
 
