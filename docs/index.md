@@ -1,20 +1,47 @@
-# Welcome to Refreryo's Revolution
+# 🦖 Refreryo's Revolution
 
-Welcome to the official **🦖 Refreryo's Revolution!** Here you will find all information about our projects and documentation.
+Documentation website for Refreryo's Revolution Discord bots.
 
-## About Us
+---
 
-**🦖 Refreryo's Revolution** is a small project focused on moderation and fun user experiences. Currently, we are working on one small and one large project.
+### About
 
-## Our Projects
+This repository contains the documentation for:
+- **DinoByte**: A small moderation and fun bot for Discord
+- **Green Dino**: A comprehensive Discord bot for larger servers
 
-Here are some of our key projects:
+### Features
 
-- **DinoByte**: Small bot with basic moderation features, available for everyone to use.
-- **GreenDino**: Large and comprehensive bot designed for bigger servers.
+- Detailed documentation of bot commands and features
+- Installation and setup guides
+- Command reference
+- FAQ
 
-## Contact
+---
 
-If you have any questions or suggestions, feel free to contact me:
+### Setup
 
-**Discord**: refreryo
+( WIP - work in progress )
+
+---
+
+
+### Invite
+
+> [DinoByte](https://discord.com/oauth2/authorize?client_id=1358469975274295666) (WIP)
+
+> [Green Dino](https://discord.com/oauth2/authorize?client_id=1346868529151873128) (Version: 1.8.4-alpha_6)
+
+---
+
+### Contact
+
+For questions / support / problems:
+- Discord: refreryo
+- [See the 'ISSUES' tab or create an issue](https://github.com/Refreryo/refreryo-revolution/issues)
+
+---
+
+### License
+
+[MIT](LICENSE)
