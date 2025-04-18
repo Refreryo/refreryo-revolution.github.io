@@ -3,9 +3,6 @@ site_url: https://refreryo.github.io/website-projekt/
 site_author: Your Name
 site_description: Official documentation for Refreryo's Revolution projects
 
-permissions:
-  contents: write
-
 plugins:
   - search
 
@@ -44,3 +41,4 @@ nav:
   - Projects:
     - DinoByte: projects/dinobyte.md
     - GreenDino: projects/greendino.md
+
