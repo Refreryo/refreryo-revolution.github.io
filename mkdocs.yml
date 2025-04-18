@@ -1,22 +1,55 @@
 site_name: Refreryo's Revolution
 site_url: https://refreryo.github.io/refreryo-revolution.github.io/
 site_author: Refreryo
-site_description: Official documentation for Refreryo's Revolution projects
+site_description: Official documentation for Refreryo's Revolution Discord bots.
 
+# Repository
+repo_name: refreryo-revolution
+repo_url: https://github.com/Refreryo/refreryo-revolution.github.io
+
+# Copyright
+copyright: Copyright &copy; 2025 Refreryo
+
+# Extensions
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - toc:
+      permalink: true
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+
+# Plugins
 plugins:
   - search
 
+extra_javascript:
+  - assets/js/github-stats.js
+
+# Theme
 theme:
   name: material
   language: en
   logo: assets/images/logo.png
   favicon: assets/images/favicon.png
+  icon:
+    repo: fontawesome/brands/github
   features:
     - navigation.tabs
     - navigation.sections
+    - navigation.expand
+    - navigation.indexes
+    - navigation.top
     - search.suggest
     - search.highlight
     - search.share
+    - content.tabs.link
+    - content.code.copy
   palette:
     # Light-Mode
     - media: "(prefers-color-scheme: light)"
@@ -35,9 +68,26 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
 
+# Extra
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/Refreryo
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/JA8VnRttNU
+
+extra_css:
+  - assets/stylesheets/custom.css
+
 # Navigation
 nav:
   - Home: index.md
   - Projects:
+    - Overview: projects/index.md
     - DinoByte: projects/dinobyte.md
     - GreenDino: projects/greendino.md
+  - Documentation:
+    - Getting Started: docs/getting-started.md
+    - Command Reference: docs/commands.md
+  - Support: support.md
+  - About: about.md
