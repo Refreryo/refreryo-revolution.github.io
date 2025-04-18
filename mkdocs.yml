@@ -1,6 +1,6 @@
 site_name: Refreryo's Revolution
-site_url: https://refreryo.github.io/website-projekt/
-site_author: Your Name
+site_url: https://refreryo.github.io/refreryo-revolution/
+site_author: Refreryo
 site_description: Official documentation for Refreryo's Revolution projects
 
 plugins:
@@ -41,4 +41,3 @@ nav:
   - Projects:
     - DinoByte: projects/dinobyte.md
     - GreenDino: projects/greendino.md
-
