@@ -1,0 +1,220 @@
+/* Allgemeine Anpassungen */
+:root {
+  --primary-color: #2e7d32;
+  --secondary-color: #3f51b5;
+  --badge-green: #4caf50;
+  --badge-yellow: #ffc107;
+  --border-color: rgba(0, 0, 0, 0.12);
+  --card-bg: rgba(0, 0, 0, 0.03);
+  --animation-duration: 0.3s;
+}
+
+[data-md-color-scheme="slate"] {
+  --card-bg: rgba(255, 255, 255, 0.05);
+  --border-color: rgba(255, 255, 255, 0.12);
+}
+
+/* Hero-Bereich */
+.hero {
+  margin: 2rem 0 3rem;
+  text-align: center;
+}
+
+.hero-text {
+  font-size: 1.5rem;
+  margin-bottom: 2rem;
+  font-weight: 300;
+}
+
+.buttons {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  margin-bottom: 2rem;
+}
+
+/* Projektkartendesign */
+.feature-box {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  margin: 30px 0;
+}
+
+.project-card {
+  flex: 1 1 300px;
+  padding: 1.5rem;
+  border-radius: 8px;
+  background-color: var(--card-bg);
+  border: 1px solid var(--border-color);
+  transition: transform var(--animation-duration), box-shadow var(--animation-duration);
+}
+
+.project-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+}
+
+.project-card h3 {
+  margin-top: 0;
+  color: var(--primary-color);
+}
+
+/* Features Grid */
+.features-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 20px;
+  margin: 30px 0;
+}
+
+.feature {
+  padding: 1.5rem;
+  border-radius: 8px;
+  background-color: var(--card-bg);
+  text-align: center;
+  border: 1px solid var(--border-color);
+  transition: transform var(--animation-duration);
+}
+
+.feature:hover {
+  transform: translateY(-3px);
+}
+
+.feature-icon {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.feature h4 {
+  margin-top: 0;
+  color: var(--primary-color);
+}
+
+/* Quick Links */
+.quick-links {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 15px;
+  margin: 30px 0;
+}
+
+.quick-link-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+  border-radius: 8px;
+  color: #fff;
+  font-weight: 500;
+  text-decoration: none;
+  transition: transform var(--animation-duration), opacity var(--animation-duration);
+}
+
+.quick-link-button:hover {
+  transform: translateY(-3px);
+  opacity: 0.9;
+}
+
+.quick-link-button span {
+  margin-right: 0.5rem;
+}
+
+.dinobyte {
+  background-color: #43a047;
+}
+
+.greendino {
+  background-color: #388e3c;
+}
+
+.github-stats {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+  margin-top: 15px;
+}
+
+.stats-badge {
+  display: flex;
+  align-items: center;
+  padding: 5px 10px;
+  border-radius: 20px;
+  background-color: var(--card-bg);
+  border: 1px solid var(--border-color);
+  font-size: 0.9rem;
+}
+
+.stats-icon {
+  margin-right: 5px;
+}
+
+.stats-label {
+  margin-right: 5px;
+  font-weight: 500;
+}
+
+.stats-count {
+  background-color: var(--primary-color);
+  color: white;
+  border-radius: 10px;
+  padding: 2px 8px;
+  font-weight: bold;
+}
+
+.support {
+  background-color: #3f51b5;
+}
+
+.docs {
+  background-color: #1e88e5;
+}
+
+/* Badge-Styling */
+.badge {
+  display: inline-block;
+  padding: 0.25rem 0.5rem;
+  border-radius: 4px;
+  font-size: 0.8rem;
+  font-weight: 500;
+}
+
+.in-development {
+  background-color: var(--badge-yellow);
+  color: #000;
+}
+
+.stable {
+  background-color: var(--badge-green);
+  color: #fff;
+}
+
+/* Footer-Note */
+.footer-note {
+  text-align: center;
+  margin-top: 2rem;
+  font-size: 0.9rem;
+  opacity: 0.8;
+}
+
+/* Dino-Emoji Animation */
+.dino-emoji {
+  display: inline-block;
+  transition: transform var(--animation-duration) ease-in-out;
+}
+
+.dino-emoji:hover {
+  transform: rotate(10deg) scale(1.2);
+}
+
+/* Responsive Anpassungen */
+@media (max-width: 768px) {
+  .buttons {
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .hero-text {
+    font-size: 1.2rem;
+  }
+}
