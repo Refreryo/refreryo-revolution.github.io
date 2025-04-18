@@ -36,9 +36,9 @@ Interested in contributing to our projects?
 
 ## Privacy & Terms
 
-- We collect minimal data necessary for bot functionality
-- User data is never sold or shared with third parties
-- Complete privacy policy coming soon
+- We collect **minimal** data necessary for bot functionality
+- User data is never sold, shared with third parties or other companies 
+- *Complete privacy policy coming soon*
 
 ---
 

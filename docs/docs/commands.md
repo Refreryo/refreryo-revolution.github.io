@@ -1,19 +1,20 @@
 # Command Reference
 
 This page lists all available commands for our Discord bots.
+> Take note, all commands are still not finished, see discords auto-complete manager!
 
 ## DinoByte Commands
 
-### Moderation
+### Moderation [WIP]
 
 | Command | Description | Usage |
 |---------|-------------|-------|
 | `/ban` | Bans a user from the server | `/ban @user [reason]` |
 | `/kick` | Kicks a user from the server | `/kick @user [reason]` |
 | `/mute` | Mutes a user for a specified time | `/mute @user [duration] [reason]` |
-| `/clear` | Deletes a number of messages | `/clear [amount]` |
+| `/clear` | Deletes a number of messages | `/clear [amount]` | 
 
-### Fun
+### Fun [WIP]
 
 | Command | Description | Usage |
 |---------|-------------|-------|
@@ -23,7 +24,7 @@ This page lists all available commands for our Discord bots.
 
 ## Green Dino Commands
 
-### Moderation
+### Moderation [WIP]
 
 | Command | Description | Usage |
 |---------|-------------|-------|
@@ -34,7 +35,7 @@ This page lists all available commands for our Discord bots.
 | `/slowmode` | Sets slowmode in a channel | `/slowmode [duration]` |
 | `/log` | Configures logging | `/log [channel]` |
 
-### Fun & Utility
+### Fun & Utility [WIP]
 
 | Command | Description | Usage |
 |---------|-------------|-------|
@@ -44,7 +45,7 @@ This page lists all available commands for our Discord bots.
 | `/poll` | Create a poll | `/poll [question] [options]` |
 | `/reminder` | Set a reminder | `/reminder [time] [message]` |
 
-### Music
+### Music [WIP]
 
 | Command | Description | Usage |
 |---------|-------------|-------|

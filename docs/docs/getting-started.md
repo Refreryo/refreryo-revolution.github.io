@@ -25,4 +25,4 @@ We currently offer two Discord bots to choose from:
 
 ## Basic Setup
 
-Once the bot is in your server, you can use the following command to view available settings:
+Once the bot is in your server, you can use the following command to view available settings.

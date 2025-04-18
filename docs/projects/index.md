@@ -37,7 +37,7 @@
 | Server Statistics | ❌ | ✅ |
 | Web Dashboard | ❌ | ❌ |
 
-> Some Commands are still WiP - stay tuned!
+> Some Commands are still WiP / More will be added - stay tuned!
 
 ## Getting Started
 

@@ -7,7 +7,7 @@ Need help with our Discord bots? You're in the right place!
 If you're having trouble with one of our bots, here are some quick steps to try:
 
 1. Make sure the bot has the necessary permissions in your server
-2. Check that you're using the commands correctly (see our [Command Reference](docs/commands/))
+2. Check that you're using the commands correctly (see our [Command Reference](https://refreryo.github.io/refreryo-revolution.github.io/docs/commands/))
 3. Try kicking and re-inviting the bot if it's not responding
 
 ## Common Issues
@@ -40,4 +40,4 @@ Have an idea for a new feature? We'd love to hear it!
 
 ---
 
-We typically respond to support requests within 24-48 hours.
+We typically respond to support requests within 24-48 hours or more - this depends on the timezone.
