@@ -22,8 +22,7 @@ Refreryo's Revolution bots are developed and maintained by Refreryo, a passionat
 
 Our bots are built using:
 
-- Discord.js
-- Node.js
+- Java [JDA](https://github.com/discord-jda/JDA)
 - MongoDB for data storage
 - Hosted on reliable cloud infrastructure
 
