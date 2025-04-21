@@ -1,6 +1,7 @@
 # <span class="dino-emoji">🦖</span> Refreryo's Revolution
 
 <div class="hero">
+  <h2 class="hero-title">Refreryo's Revolution</h2>
   <p class="hero-text">
     Powerful Discord bots designed to enhance your server experience
   </p>
@@ -8,7 +9,49 @@
     <a href="projects/" class="md-button md-button--primary">Explore Projects</a>
     <a href="docs/getting-started/" class="md-button">Get Started</a>
   </div>
-  <div id="github-stats" class="github-stats"></div>
+  <div class="github-stats">
+    <div class="stats-badge">
+      <span class="stats-icon">🐛</span>
+      <span class="stats-label">Open Issues:</span>
+      <span class="stats-count">0</span>
+    </div>
+    <div class="stats-badge">
+      <span class="stats-icon">⭐</span>
+      <span class="stats-label">Stars:</span>
+      <span class="stats-count">0</span>
+    </div>
+  </div>
+</div>
+
+## Latest News
+
+<div class="news-container">
+  <div class="news-item">
+    <div class="news-date">April 20, 2025</div>
+    <h3 class="news-title">Green Dino 1.8.5 Released</h3>
+    <p class="news-content">
+      We're excited to announce the release of Green Dino 1.8.5-alpha_3 with improved moderation tools and better server performance.
+    </p>
+    <a href="changelog/#version-185-alpha_3-april-20-2025" class="news-link">Read more →</a>
+  </div>
+  
+  <div class="news-item">
+    <div class="news-date">April 15, 2025</div>
+    <h3 class="news-title">DinoByte Development Update</h3>
+    <p class="news-content">
+      Development of DinoByte is progressing well. We've added several new fun commands and improved the moderation experience.
+    </p>
+    <a href="changelog/#development-update-april-15-2025" class="news-link">Read more →</a>
+  </div>
+  
+  <div class="news-item">
+    <div class="news-date">April 5, 2025</div>
+    <h3 class="news-title">Documentation Overhaul</h3>
+    <p class="news-content">
+      We've completely redesigned our documentation to make it more user-friendly and comprehensive.
+    </p>
+    <a href="about/" class="news-link">Read more →</a>
+  </div>
 </div>
 
 ## Our Discord Bots
