@@ -32,7 +32,7 @@
     <p class="news-content">
       We're excited to announce the release of Green Dino 1.8.5-alpha_3 with improved moderation tools and better server performance.
     </p>
-    <a href="changelog/#version-185-alpha_3-april-20-2025" class="news-link">Read more →</a>
+    <a href="changelogs/greendino-changelog/" class="news-link">Read more →</a>
   </div>
   
   <div class="news-item">
@@ -41,7 +41,7 @@
     <p class="news-content">
       Development of DinoByte is progressing well. We've added several new fun commands and improved the moderation experience.
     </p>
-    <a href="changelog/#development-update-april-15-2025" class="news-link">Read more →</a>
+    <a href="changelogs/dinobyte-changelog/" class="news-link">Read more →</a>
   </div>
   
   <div class="news-item">

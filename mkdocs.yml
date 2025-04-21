@@ -89,6 +89,9 @@ nav:
   - Documentation:
     - Getting Started: docs/getting-started.md
     - Command Reference: docs/commands.md
-  - Changelog: changelog.md
+  - Changelogs:
+    - GreenDino: changelogs/greendino-changelog.md
+    - DinoByte: changelogs/dinobyte-changelog.md
+  - Feature Comparison: feature-comparison.md
   - Support: support.md
   - About: about.md

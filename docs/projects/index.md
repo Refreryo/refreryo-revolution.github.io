@@ -12,7 +12,7 @@
     <p>A small but powerful moderation and fun bot for Discord.</p>
     <p><strong>Perfect for:</strong> Small to medium communities, gaming servers, and casual groups.</p>
     <p><strong>Status:</strong> <span class="badge in-development">In Development</span></p>
-    <a href="../projects/dinobyte/" class="md-button md-button--primary">Learn More</a>
+    <a href="../projects/dinobyte.md" class="md-button md-button--primary">Learn More</a>
   </div>
 
   <div class="project-card">
@@ -20,7 +20,7 @@
     <p>A comprehensive Discord bot with advanced features for larger servers.</p>
     <p><strong>Perfect for:</strong> Large communities, educational servers, and professional groups.</p>
     <p><strong>Current Version:</strong> <span class="badge stable">1.8.4-alpha_6</span></p>
-    <a href="../projects/greendino/" class="md-button md-button--primary">Learn More</a>
+    <a href="../projects/greendino.md" class="md-button md-button--primary">Learn More</a>
   </div>
 </div>
 
@@ -41,8 +41,8 @@
 
 ## Getting Started
 
-Want to try our bots? Check out the [setup guides](../docs/getting-started/) to get started in minutes!
+Want to try our bots? Check out the [setup guides](../docs/getting-started.md) to get started in minutes!
 
 ## Support
 
-Having issues or questions? Visit our [support page](../support/) for assistance.
+Having issues or questions? Visit our [support page](../support.md) for assistance.
