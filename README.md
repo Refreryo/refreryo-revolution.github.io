@@ -21,16 +21,16 @@ This repository contains the documentation for:
 
 ### Setup
 
-( WIP - work in progress )
+[Get started today!](https://refreryo.github.io/refreryo-revolution.github.io/)
 
 ---
 
 
 ### Invite 
 
-> [DinoByte](https://discord.com/oauth2/authorize?client_id=1358469975274295666) (WIP)
+> [DinoByte](https://discord.com/oauth2/authorize?client_id=1358469975274295666)
 
-> [Green Dino](https://discord.com/oauth2/authorize?client_id=1346868529151873128) (Version: 1.8.4-alpha_6)
+> [Green Dino](https://discord.com/oauth2/authorize?client_id=1346868529151873128)
 
 ---
 
