@@ -104,7 +104,7 @@
 
 .action-button:hover::before {
   opacity: 1;
-  animation: rainbow 3s linear infinite;
+  animation: rainbow 20s linear infinite;
 }
 
 @keyframes rainbow {

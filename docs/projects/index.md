@@ -24,6 +24,7 @@
   </div>
 </div>
 
+<!---
 ## Features Comparison
 
 | Feature | DinoByte | Green Dino |
@@ -38,6 +39,7 @@
 | Web Dashboard | ❌ | ❌ |
 
 > Some Commands are still WiP / More will be added - stay tuned!
+-->
 
 ## Getting Started
 
