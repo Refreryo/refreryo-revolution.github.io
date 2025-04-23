@@ -89,7 +89,7 @@
   width: 100%;
   height: 100%;
   background: linear-gradient(90deg, 
-    #ff0000, #ff7f00, #ffff00, #00ff00, #0000ff, #4b0082, #8b00ff, #ff0000);
+    #1b5e20);
   background-size: 200% 100%;
   border-radius: 30px;
   z-index: -1;

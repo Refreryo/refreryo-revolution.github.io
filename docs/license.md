@@ -14,7 +14,6 @@ Kontakt für Genehmigungsanfragen: Refreryo
 Bei Verstoß gegen diese Bedingungen erlischt die Nutzungserlaubnis automatisch.
 
 ---
-
 ## PROPRIETARY SOFTWARE LICENSE
 
 **Copyright © 2025 Refreryo - All Rights Reserved.**

@@ -25,11 +25,6 @@
             <td>✅</td>
         </tr>
         <tr>
-            <td>Music playback</td>
-            <td>🛠️</td>
-            <td>🛠️</td>
-        </tr>
-        <tr>
             <td>Custom commands</td>
             <td>❌</td>
             <td>✅</td>

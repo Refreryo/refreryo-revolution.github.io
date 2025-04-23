@@ -6,11 +6,11 @@ Refreryo's Revolution is a collection of Discord bots designed to enhance your s
 
 ## Our Bots
 
-### DinoByte
+### 🦕 DinoByte
 
 DinoByte was created in 2023 as a lightweight solution for small to medium Discord servers. It focuses on essential moderation features and fun commands to keep your community engaged.
 
-### Green Dino
+### 🦖 Green Dino
 
 Green Dino is our flagship bot, launched in 2024 with a comprehensive set of features for larger communities. It includes advanced moderation tools, music playback, custom commands, and much more.
 

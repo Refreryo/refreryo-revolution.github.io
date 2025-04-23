@@ -2,10 +2,12 @@
 
 Follow the development progress of our DinoByte Discord bot.
 
-> Please take note, that DinoByte will not be released soon, current and main development is set to Green Dino.
+Please take note, that DinoByte will not be released soon, current and main development is set to Green Dino.   
 
-## DinoByte - WIP
+For more information, please see [DinoByte Project](../projects/dinobyte.md)
+
 <!--
+## DinoByte - WIP
 <div class="release-card">
   <div class="release-header">
     <span class="release-version">Development Build</span>
