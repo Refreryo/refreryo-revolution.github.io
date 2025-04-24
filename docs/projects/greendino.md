@@ -1,5 +1,7 @@
 # 🦖 Green Dino
 
+<span class="badge stable">1.8.5-alpha_3</span>
+
 ##   Introduction
 
 ### - Why "Green Dino"?

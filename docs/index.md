@@ -13,12 +13,12 @@
     <div class="stats-badge">
       <span class="stats-icon">🐛</span>
       <span class="stats-label">Open Issues:</span>
-      <span class="stats-count">0</span>
+      <span class="stats-count">-</span>
     </div>
     <div class="stats-badge">
       <span class="stats-icon">⭐</span>
       <span class="stats-label">Stars:</span>
-      <span class="stats-count">0</span>
+      <span class="stats-count">-</span>
     </div>
   </div>
 </div>
@@ -26,22 +26,34 @@
 ## Our Discord Bots
 
 <div class="bots-showcase">
-  <div class="bot-card left">
+  <div class="bot-card greendino">
     <div class="bot-icon">🦖</div>
     <div class="bot-content">
       <h3>Green Dino</h3>
       <p>A comprehensive Discord bot with advanced features for larger servers.</p>
-      <p><strong>Version:</strong> <span class="badge stable">1.8.5_1</span></p>
+      <p><strong>Version:</strong> <span class="badge stable">1.8.5-alpha_3</span></p>
       <a href="projects/greendino/" class="bot-button">Learn More</a>
     </div>
   </div>
   
-  <div class="bot-card right">
+  <div class="bot-card aviator">
+    <div class="bot-icon">
+      <img src="assets/images/Aviator.png" alt="Aviator" class="bot-image">
+    </div>
+    <div class="bot-content">
+      <h3>Aviator</h3>
+      <p>This will be a secret 🤫</p>
+      <p><strong>Status:</strong> <span class="badge early-alpha">EARLY ALPHA</span></p>
+      <a href="projects/aviator/" class="bot-button">Learn More</a>
+    </div>
+  </div>
+  
+  <div class="bot-card dinobyte">
     <div class="bot-icon">🦕</div>
     <div class="bot-content">
       <h3>DinoByte</h3>
       <p>A small moderation and fun bot for Discord, perfect for small to medium communities.</p>
-      <p><strong>Status:</strong> <span class="badge in-development">In Development</span></p>
+      <p><strong>Status:</strong> <span class="badge paused">PAUSED</span></p>
       <a href="projects/dinobyte/" class="bot-button">Learn More</a>
     </div>
   </div>
@@ -78,15 +90,7 @@
 ## Quick Links
 
 <div class="quick-links">
-  <a href="https://discord.com/oauth2/authorize?client_id=1358469975274295666" class="quick-link-button dinobyte">
-    <span class="dino-emoji">🦕</span> Invite DinoByte
-  </a>
-  
-  <a href="https://discord.com/oauth2/authorize?client_id=1346868529151873128" class="quick-link-button greendino">
-    <span class="dino-emoji">🦖</span> Invite Green Dino
-  </a>
-  
-  <a href="support/" class="quick-link-button support">
+    <a href="support/" class="quick-link-button support">
     <span>🛟</span> Get Support
   </a>
   

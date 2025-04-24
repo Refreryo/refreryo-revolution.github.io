@@ -6,6 +6,7 @@
             <th>Feature</th>
             <th>DinoByte</th>
             <th>Green Dino</th>
+            <th>Aviator</th>
         </tr>
     </thead>
     <tbody>
@@ -13,51 +14,65 @@
             <td>Basic moderation commands</td>
             <td>🛠️</td>
             <td>✅</td>
+            <td>🛠️</td>
         </tr>
         <tr>
             <td>Advanced moderation tools</td>
             <td>🛠️</td>
             <td>✅</td>
+            <td>🛠️</td>
         </tr>
         <tr>
             <td>Fun commands</td>
             <td>🛠️</td>
             <td>✅</td>
+            <td>🛠️</td>
         </tr>
         <tr>
             <td>Custom commands</td>
             <td>❌</td>
             <td>✅</td>
+            <td>🛠️</td>
         </tr>
         <tr>
             <td>Reaction roles</td>
             <td>❌</td>
             <td>❌</td>
+            <td>🛠️</td>
         </tr>
         <tr>
             <td>Server statistics</td>
             <td>❌</td>
             <td>✅</td>
+            <td>🛠️</td>
         </tr>
         <tr>
             <td>Logging system</td>
             <td>❌</td>
             <td>✅</td>
+            <td>🛠️</td>
         </tr>
         <tr>
             <td>Welcome messages</td>
             <td>❌</td>
             <td>✅</td>
+            <td>🛠️</td>
         </tr>
         <tr>
             <td>Web dashboard</td>
             <td>❌</td>
             <td>🔜</td>
+            <td>🛠️</td>
         </tr>
     </tbody>
 </table>
 
-> For more Information about [DinoByte](changelogs/dinobyte-changelog.md)
+---
+### About DinoByte
+- For more Information about [DinoByte](changelogs/dinobyte-changelog.md)  
+
+### About Aviator
+- Aviator is in Early Development! [Aviator](projects/aviator.md)
 
 ---
 
