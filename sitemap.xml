@@ -2,50 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://refreryo.github.io/refreryo-revolution.github.io/</loc>
-         <lastmod>2025-04-23</lastmod>
+         <lastmod>2025-04-24</lastmod>
     </url>
     <url>
          <loc>https://refreryo.github.io/refreryo-revolution.github.io/about/</loc>
-         <lastmod>2025-04-23</lastmod>
+         <lastmod>2025-04-24</lastmod>
     </url>
     <url>
          <loc>https://refreryo.github.io/refreryo-revolution.github.io/feature-comparison/</loc>
-         <lastmod>2025-04-23</lastmod>
+         <lastmod>2025-04-24</lastmod>
     </url>
     <url>
          <loc>https://refreryo.github.io/refreryo-revolution.github.io/license/</loc>
-         <lastmod>2025-04-23</lastmod>
+         <lastmod>2025-04-24</lastmod>
     </url>
     <url>
          <loc>https://refreryo.github.io/refreryo-revolution.github.io/support/</loc>
-         <lastmod>2025-04-23</lastmod>
+         <lastmod>2025-04-24</lastmod>
+    </url>
+    <url>
+         <loc>https://refreryo.github.io/refreryo-revolution.github.io/changelogs/aviator-changelog/</loc>
+         <lastmod>2025-04-24</lastmod>
     </url>
     <url>
          <loc>https://refreryo.github.io/refreryo-revolution.github.io/changelogs/dinobyte-changelog/</loc>
-         <lastmod>2025-04-23</lastmod>
+         <lastmod>2025-04-24</lastmod>
     </url>
     <url>
          <loc>https://refreryo.github.io/refreryo-revolution.github.io/changelogs/greendino-changelog/</loc>
-         <lastmod>2025-04-23</lastmod>
+         <lastmod>2025-04-24</lastmod>
     </url>
     <url>
          <loc>https://refreryo.github.io/refreryo-revolution.github.io/docs/commands/</loc>
-         <lastmod>2025-04-23</lastmod>
+         <lastmod>2025-04-24</lastmod>
     </url>
     <url>
          <loc>https://refreryo.github.io/refreryo-revolution.github.io/docs/getting-started/</loc>
-         <lastmod>2025-04-23</lastmod>
+         <lastmod>2025-04-24</lastmod>
     </url>
     <url>
          <loc>https://refreryo.github.io/refreryo-revolution.github.io/projects/</loc>
-         <lastmod>2025-04-23</lastmod>
+         <lastmod>2025-04-24</lastmod>
+    </url>
+    <url>
+         <loc>https://refreryo.github.io/refreryo-revolution.github.io/projects/aviator/</loc>
+         <lastmod>2025-04-24</lastmod>
     </url>
     <url>
          <loc>https://refreryo.github.io/refreryo-revolution.github.io/projects/dinobyte/</loc>
-         <lastmod>2025-04-23</lastmod>
+         <lastmod>2025-04-24</lastmod>
     </url>
     <url>
          <loc>https://refreryo.github.io/refreryo-revolution.github.io/projects/greendino/</loc>
-         <lastmod>2025-04-23</lastmod>
+         <lastmod>2025-04-24</lastmod>
     </url>
 </urlset>
