@@ -2,37 +2,7 @@
 
 Stay up to date with the latest developments and improvements to our Green Dino Discord bot.
 
-## Version 1.8.6-ALPHA_1 [PREVIEW]
-
-<div class="release-card">
-  <div class="release-header">
-    <span class="release-version">1.8.6-ALPHA_1 [PREVIEW]</span>
-    <span class="release-date">April 25, 2025</span>
-  </div>
-  <div class="release-content">
-    <p class="release-description">
-      Early release of Green Dino with optimization and better functionality.
-    </p>
-    <h4>Changes</h4>
-    <ul>
-      <li>Better Channelcreator setting.</li>
-      <li>Better Server analystics for Channelcreator</li>
-      <li>Edit of usage of some Commands and re-edit of some other Embeds</li>
-    </ul>
-    <h4>Fixxes</h4>
-    <ul>
-      <li>Duplicate Channel Fixxed</li>
-      <li>> Please delete the current structure of the Bot to avoid errors!</li>
-      <li>CreateChannelStructure with some small adjustments</li>
-    </ul>
-    <h4>🚨 WARNING</h4>
-    <ul>
-      <li>This is a public test-build!</li>
-      <li>Commands and moderation tools are still functionall but some may have permission problems!</li>
-      <li>This will be fixxed in the next Version! (hopefully)</li>
-    </ul>
-  </div>
-</div>
+> WARNING: Due to a big crashout - we changed our version back to: 1.8.5
 
 ## Version - 1.8.5_1 - RELEASE
 

@@ -12,7 +12,7 @@
     <div class="bot-content">
       <h3>Green Dino</h3>
       <p>A comprehensive Discord bot with advanced features for larger servers.</p>
-      <p><strong>Version:</strong> <span class="badge stable">1.8.6-ALPHA_1 [PREVIEW]</span></p>
+      <p><strong>Version:</strong> <span class="badge stable">1.8.5</span></p>
       <a href="greendino" class="bot-button">Learn More</a>
     </div>
   </div>
