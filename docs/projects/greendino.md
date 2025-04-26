@@ -1,6 +1,6 @@
 # 🦖 Green Dino
 
-<span class="badge stable">1.8.5</span>
+<span class="badge stable">1.8.7 - [Stable-Build]</span>
 
 ##   Introduction
 

@@ -2,6 +2,26 @@
 
 Stay up to date with the latest developments and improvements to our Green Dino Discord bot.
 
+## Version - 1.8.7 - [Stable-Build]
+
+<div class="release-card">
+  <div class="release-header">
+    <span class="release-version">1.8.5_1</span>
+    <span class="release-date">April 22, 2025</span>
+  </div>
+  <div class="release-content">
+    <p class="release-description">
+      Stable Release State for Green Dino.
+    </p>
+    <h4>Changes & Fix</h4>
+    <ul>
+      <li>Reverted the Startmessage</li>
+      <li>Cleared DataBaseManager to prevent errors</li>
+      <li>Small Changes to 'base' of Green Dino (performance)</li>
+    </ul>
+  </div>
+</div>
+
 > WARNING: Due to a big crashout - we changed our version back to: 1.8.5
 
 ## Version - 1.8.5_1 - RELEASE
