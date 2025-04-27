@@ -1,6 +1,6 @@
 # 🦖 Green Dino
 
-<span class="badge stable">1.8.7 - [Stable-Build]</span>
+<span class="badge stable">1.8.7-beta_1</span>
 
 ##   Introduction
 

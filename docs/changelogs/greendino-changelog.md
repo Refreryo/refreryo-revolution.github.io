@@ -2,6 +2,29 @@
 
 Stay up to date with the latest developments and improvements to our Green Dino Discord bot.
 
+## Version - 1.8.7-beta_1
+
+<div class="release-card">
+  <div class="release-header">
+    <span class="release-version">1.8.7-beta_1</span>
+    <span class="release-date">April 27, 2025</span>
+  </div>
+  <div class="release-content">
+    <p class="release-description">
+      Beta-Release state for Green Dino with some additionale changes and fixxes.
+    </p>
+    <h4>Adding / Changes / Fix</h4>
+    <ul>
+      <li>Added new Command for Owner and Admin commands. Now able to set the Status of the Bot to Online / Idle / DND / Offline</li>
+      <li>Also now the Maintenance command is able to be used for the Bot and blocks user commands.</li>
+      <li>The Consolelogger now looks different and compact.</li>
+      <li>If you experience any issues - create an issue on the GitHub page.</li>
+      <a href="https://github.com/Refreryo/refreryo-revolution/issues" class="contact-link">Create an issue</a>
+    </ul>
+  </div>
+</div>
+
+
 ## Version - 1.8.7 - [Stable-Build]
 
 <div class="release-card">
@@ -22,7 +45,10 @@ Stay up to date with the latest developments and improvements to our Green Dino 
   </div>
 </div>
 
-> WARNING: Due to a big crashout - we changed our version back to: 1.8.5
+## Warning for Version 1.8.6_alpha
+
+> WARNING: Due to a big crashout - we changed our version back to: 1.8.5  
+> Also a reset of our database has been performed.
 
 ## Version - 1.8.5_1 - RELEASE
 
