@@ -12,66 +12,69 @@
     <tbody>
         <tr>
             <td>Basic moderation commands</td>
-            <td>🛠️</td>
+            <td>ℹ️</td>
             <td>✅</td>
             <td>🛠️</td>
         </tr>
         <tr>
             <td>Advanced moderation tools</td>
-            <td>🛠️</td>
+            <td>ℹ️</td>
             <td>✅</td>
-            <td>🛠️</td>
+            <td>❌</td>
         </tr>
         <tr>
             <td>Fun commands</td>
-            <td>🛠️</td>
+            <td>ℹ️</td>
             <td>✅</td>
-            <td>🛠️</td>
+            <td>✅</td>
         </tr>
         <tr>
             <td>Custom commands</td>
-            <td>❌</td>
+            <td>ℹ️</td>
             <td>✅</td>
-            <td>🛠️</td>
+            <td>❌</td>
         </tr>
         <tr>
             <td>Reaction roles</td>
+            <td>ℹ️</td>
             <td>❌</td>
             <td>❌</td>
-            <td>🛠️</td>
         </tr>
         <tr>
             <td>Server statistics</td>
-            <td>❌</td>
+            <td>ℹ️</td>
             <td>✅</td>
-            <td>🛠️</td>
+            <td>❌</td>
         </tr>
         <tr>
             <td>Logging system</td>
-            <td>❌</td>
+            <td>ℹ️</td>
             <td>✅</td>
-            <td>🛠️</td>
+            <td>❌</td>
         </tr>
         <tr>
             <td>Welcome messages</td>
-            <td>❌</td>
+            <td>ℹ️</td>
             <td>✅</td>
             <td>🛠️</td>
         </tr>
         <tr>
-            <td>Web dashboard</td>
+            <td>News / Announcer</td>
+            <td>ℹ️</td>
+            <td>✅</td>
             <td>❌</td>
-            <td>🔜</td>
-            <td>🛠️</td>
         </tr>
-    </tbody>
+        </tbody>
 </table>
 
 ---
+
 ### About DinoByte
-- For more Information about [DinoByte](changelogs/dinobyte-changelog.md)  
+
+- For more Information about [DinoByte](changelogs/dinobyte-changelog.md)
 
 ### About Aviator
+
 - Aviator is in Early Development! [Aviator](projects/aviator.md)
 
 ---
@@ -83,4 +86,5 @@
     <button style="padding: 10px 20px; margin: 5px;">🔜 Planned</button>
     <button style="padding: 10px 20px; margin: 5px;">❌ Not available</button>
     <button style="padding: 10px 20px; margin: 5px;">🛠️ Work in Progress</button>
+    <button style="padding: 10px 20px; margin: 5px;">ℹ️ PAUSED</button>
 </div>

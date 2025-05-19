@@ -2,6 +2,31 @@
 
 Stay up to date with the latest developments and improvements to our Green Dino Discord bot.
 
+## Version - 1.8.7-beta_8 info
+> 🚨 Version 1.8.8 will have a Database RESET !!! 
+
+> 📄 Version 1.8.8 will re-create the Changelogstab for Green Dino
+<div class="release-card">
+  <div class="release-header">
+    <span class="release-version">1.8.7-beta_8</span>
+    <span class="release-date">May 19, 2025</span>
+  </div>
+  <div class="release-content">
+    <p class="release-description">
+      Information for the release state and others.
+    </p>
+    <h4>Green Dino - Switching soon to Stable Build</h4>
+    <ul>
+      <li>Currently Green Dino is running on Version 1.8.7-beta_9</li>
+      <li>It has some severe issues with the handling on some commands - /create-structure</li>
+      <li>Many Bugs that have been occured are under control and are currently beeing tested.</li>
+      <li>If you experience any issues - or - create an issue on the GitHub page.</li>
+      <a href="https://github.com/Refreryo/refreryo-revolution.github.io/issues/new" class="contact-link">Create an issue</a>
+    </ul>
+  </div>
+</div>
+
+
 ## Version - 1.8.7-beta_1
 
 <div class="release-card">
@@ -19,7 +44,7 @@ Stay up to date with the latest developments and improvements to our Green Dino 
       <li>Also now the Maintenance command is able to be used for the Bot and blocks user commands.</li>
       <li>The Consolelogger now looks different and compact.</li>
       <li>If you experience any issues - create an issue on the GitHub page.</li>
-      <a href="https://github.com/Refreryo/refreryo-revolution/issues" class="contact-link">Create an issue</a>
+      <a href="https://github.com/Refreryo/refreryo-revolution.github.io/issues/new" class="contact-link">Create an issue</a>
     </ul>
   </div>
 </div>
@@ -45,7 +70,7 @@ Stay up to date with the latest developments and improvements to our Green Dino 
   </div>
 </div>
 
-## Warning for Version 1.8.6_alpha
+## Version - 1.8.6_alpha - WARNING
 
 > WARNING: Due to a big crashout - we changed our version back to: 1.8.5  
 > Also a reset of our database has been performed.
