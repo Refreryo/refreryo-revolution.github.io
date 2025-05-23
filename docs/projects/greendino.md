@@ -1,113 +1,117 @@
 # 🦖 Green Dino
 
-<span class="badge stable">1.8.7-beta_8</span>
+<span class="badge stable">1.8.8</span>
 
-##   Introduction
+## Introduction
 
-### - Why "Green Dino"?
-- Green Dino was one of my first and most ambitious projects to date.
-- It began as a simple design idea and has since grown into a large-scale application.
+### Why "Green Dino"?
+- Green Dino is one of my first and most ambitious projects.
+- It began as a simple design idea and has evolved into a powerful, feature-rich Discord bot.
 
-### - How does Green Dino work?
-- Green Dino is developed using **JDA (Java Discord API)**.  
-- Some core features are backed by a **database** for performance and persistence.
+### How does Green Dino work?
+- Built with **JDA (Java Discord API)** for seamless Discord integration.
+- Uses a robust **database** for fast performance and reliable data storage.
 
-### - Invite the Bot
-1. Click the link: [Invite Green Dino](https://discord.com/oauth2/authorize?client_id=1346868529151873128)  
-2. Choose the server where you want to add the bot  
-3. Review the requested permissions and click **Authorize**
+### Invite the Bot
+1. [Invite Green Dino](https://discord.com/oauth2/authorize?client_id=1346868529151873128)
+2. Choose your server
+3. Review permissions and click **Authorize**
 
 ---
 
-##   Full Command List & Info
+## Full Command List & Features
 
 ### 👤 User Commands
-| Slash Command | Description | Info |
-|---------------|-------------|------|
-| `/afk`        | Set your status to AFK with a custom reason. | The bot will notify others that you're currently away. |
-| `/help`       | Displays a list of available commands.       | Browse through all available commands and features. |
-| `/serverstats`| View server-related statistics.              | Displays information such as server region, roles, bots, and more. |
-| `/support`    | Get support for Green Dino.                  | Encountering issues? Use this command for help. |
+
+| Slash Command   | Description                                   | Info                                         |
+|-----------------|-----------------------------------------------|----------------------------------------------|
+| `/afk`          | Set your status to AFK with a custom reason.  | Notifies others that you're currently away.  |
+| `/help`         | Shows a list of available commands.           | Browse all commands and features.            |
+| `/serverstats`  | View server statistics.                       | See region, roles, bots, and more.           |
+| `/support`      | Get support for Green Dino.                   | Need help? Use this command.                 |
 
 ---
 
 ### 🕹️ Games
-| Slash Command | Description |
-|---------------|-------------|
-| `/blackjack start`   | Start a new blackjack game. |
-| `/blackjack stop`    | Stop your current blackjack session. |
-| `/blackjack stats`   | View your blackjack game statistics. |
-| `/blackjack balance` | Check your current in-game balance. |
 
-| Slash Command | Description | Info |
-|---------------|-------------|------|
-| `/pet-create`  | Create your own virtual pet. | Choose between a **Dino**, **Dog**, or **Cat**. |
-| `/pet-mypet`   | Display your pet’s current status. | View your pet’s level and needs. |
-| `/pet-play`    | Play with your pet to earn XP. | Strengthen your bond and have fun. |
-| `/pet-feed`    | Feed your pet to reduce its hunger. | Keep your pet happy and satisfied. |
-| `/pet-sleep`   | Let your pet sleep to regain energy. | Rest is essential for activities. |
-| `/pet-delete`  | Permanently delete your virtual pet. | This action is irreversible. |
+| Slash Command   | Description                                   |
+|-----------------|-----------------------------------------------|
+| `/blackjack`    | Start a new blackjack session.                |
 
-⚠️ **Virtual Pet Warning**  
+### 🐾 Virtual Pet System
+
+| Slash Command   | Description                                   | Info                                         |
+|-----------------|-----------------------------------------------|----------------------------------------------|
+| `/pet-create`   | Create your own virtual pet.                  | Choose between **Dino**, **Dog**, or **Cat**.|
+| `/pet-mypet`    | Show your pet’s current status.               | View your pet’s level and needs.             |
+| `/pet-play`     | Play with your pet to earn XP.                | Strengthen your bond and have fun.           |
+| `/pet-feed`     | Feed your pet to reduce hunger.               | Keep your pet happy and satisfied.           |
+| `/pet-sleep`    | Let your pet sleep to regain energy.          | Rest is essential for activities.            |
+| `/pet-delete`   | Permanently delete your virtual pet.          | This action cannot be undone.                |
+
+> ⚠️ **Virtual Pet Warning**  
 > If you neglect your pet’s needs, it may leave you.  
 > Please take care of your pet regularly!
 
 ---
 
 ### ⭐ Extras
-| Slash Command | Description | Info |
-|---------------|-------------|------|
-| `/pw-gen`     | Generate a secure password via a modal dialog. | Works with unique IDs. |
-| `/pw-list`    | View a list of all your saved passwords.       | Works with unique IDs. |
-| `/pw-delete`  | Remove a stored password.                      | Works with unique IDs. |
 
-| Slash Command | Description |
-|---------------|-------------|
-| `/coinflip`   | Flip a coin (heads or tails). |
-| `/dadjoke`    | Receive a random dad joke. |
-| `/8ball`      | Ask the magic 8-ball a question. |
-| `/rollthedice`| Roll a die with your chosen number of sides. |
-| `/rps`        | Play Rock, Paper, Scissors! |
+| Slash Command   | Description                                   | Info                                         |
+|-----------------|-----------------------------------------------|----------------------------------------------|
+| `/pw-gen`       | Generate a secure password via a modal dialog.| Works with unique IDs.                       |
+| `/pw-list`      | View all your saved passwords.                | Works with unique IDs.                       |
+| `/pw-delete`    | Remove a stored password.                     | Works with unique IDs.                       |
+
+| Slash Command   | Description                                   |
+|-----------------|-----------------------------------------------|
+| `/coinflip`     | Flip a coin (heads or tails).                 |
+| `/dadjoke`      | Get a random dad joke.                        |
+| `/8ball`        | Ask the magic 8-ball a question.              |
+| `/rollthedice`  | Roll a die with your chosen number of sides.  |
+| `/rps`          | Play Rock, Paper, Scissors!                   |
 
 ---
 
 ### 🚨 Moderation
-| Slash Command | Description |
-|---------------|-------------|
-| `/clear`      | Delete a specified number of messages [1 - 1000]. |
 
-> More **moderation commands** are currently in development.
+| Slash Command   | Description                                   |
+|-----------------|-----------------------------------------------|
+| `/clear`        | Delete a specified number of messages [1-1000].|
+| `/ban`        | Kick a user from the server.                     |
+| `/kick`        | Kick a user from the server.                    |
+| `/warn`        | Warning actions with sub-commands.              |
+
 
 ---
 
 ### 🛠️ Utilities
-| Slash Command | Description |
-|---------------|-------------|
-| `/create-structure` | Set up the initial server structure. |
-| `/delete-structure` | Remove the default server structure. |
-| `/create-welcome`   | Create a new welcome channel. |
-| `/set-welcome`      | Assign an existing channel as the welcome channel. |
-| `/del-welcome`      | Remove the welcome channel configuration. |
+
+| Slash Command        | Description                                   |
+|----------------------|-----------------------------------------------|
+| `/create-structure`  | Set up the initial server structure.          |
+| `/delete-structure`  | Remove the default server structure.          |
+| `/create-welcome`    | Create a new welcome channel.                 |
+| `/set-welcome`       | Assign an existing channel as the welcome channel. |
+| `/del-welcome`       | Remove the welcome channel configuration.      |
 
 ---
 
-##   Functionality & Additional Info
+## Functionality & Additional Info
 
-Although **Green Dino** is one of my most extensive and feature-rich projects, it is still actively being developed.  
-So, you may occasionally come across minor bugs or unexpected behavior.
+**Green Dino** is a continuously evolving project with a wide range of features.  
+While it's stable and packed with functionality, you might occasionally encounter minor bugs.
 
-I'm continuously working on fixes and improvements to ensure a smoother experience.  
-Your feedback is always appreciated!
+I'm always working on improvements and new features.  
+Your feedback is highly appreciated!
 
-If you need help or want to report a bug, feel free to [join the support server](https://discord.gg/JA8VnRttNU)  
-or [open an issue on GitHub](https://github.com/Refreryo/refreryo-revolution/issues).
+Need help or want to report a bug?  
+- [Join the support server](https://discord.gg/JA8VnRttNU)  
+- [Open an issue on GitHub](https://github.com/Refreryo/refreryo-revolution/issues)
 
+## 🦖✨ Final Words
 
-##   Last Words
+Green Dino started as a fun experiment and has grown into a project I'm truly proud of.  
+Thank you for your support—whether you're just trying out commands or building your community with Green Dino!
 
-Green Dino started as a fun experiment — today it’s one of the projects I’m most proud of.  
-I’ve put a lot of heart into it, and I’m thrilled to see it being used by others.
-
-Your support means a lot. Whether you're just testing commands or building a whole server around it — thank you!
-
-Let’s see where the journey goes next 🦖✨
+Let's see where the journey goes next
