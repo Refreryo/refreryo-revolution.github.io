@@ -84,16 +84,18 @@ nav:
   - Home: index.md
   - Projects:
     - Overview: projects/index.md
-    - DinoByte: projects/dinobyte.md
+    # - DinoByte: projects/dinobyte.md
     - GreenDino: projects/greendino.md
     - Aviator: projects/aviator.md
+    - SharkByte: projects/sharkbyte.md
   - Documentation:
     - Getting Started: docs/getting-started.md
-    - Command Reference: docs/commands.md
+    # - Command Reference: docs/commands.md
   - Changelogs:
     - GreenDino: changelogs/greendino-changelog.md
-    - DinoByte: changelogs/dinobyte-changelog.md
+    # - DinoByte: changelogs/dinobyte-changelog.md
     - Aviator: changelogs/aviator-changelog.md
+    - SharkByte: changelogs/sharkbyte-changelog.md
   - Feature Comparison: feature-comparison.md
   - Support: support.md
   - About: about.md

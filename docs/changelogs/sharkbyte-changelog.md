@@ -1,46 +1,37 @@
-# Green Dino Changelog
+# Shark Byte Changelog
 
-Stay up to date with the latest updates and improvements to our **Green Dino** Discord Bot.
+Stay up to date with the latest updates and improvements to our **Shark Byte** Discord Bot.
 
 <div class="release-card">
   <div class="release-header" style="display: flex; justify-content: space-between; align-items: center; padding: 0.5rem 1rem; background: linear-gradient(90deg, #7ecfff 0%, #4f8cff 100%); color: #fff; border-radius: 8px 8px 0 0;">
-    <span class="release-version" style="font-weight: bold; font-size: 1.2rem;">1.8.8 | Stable</span>
-    <span class="release-date" style="font-size: 1rem;">@ May 23, 2025</span>
+    <span class="release-version" style="font-weight: bold; font-size: 1.2rem;">1.0.0 | Release</span>
+    <span class="release-date" style="font-size: 1rem;">@ June 10, 2025</span>
   </div>
   <div class="release-content" style="padding: 1rem;">
     <p class="release-description" style="font-size: 1.1rem; color: #fff;">
-      🦖 <strong>Version 1.8.8 – STABLE</strong>
+      🦈 <strong>Version 1.0.0 – Release</strong>
     </p>
     <div class="changelog-cards" style="display: flex; flex-direction: column; gap: 1rem;">
       <div class="changelog-card animated-card" data-dark="true">
-        <span class="changelog-icon" style="font-size: 2rem;">✏️</span>
-        <strong>Improvements</strong>
-        <ul>
-          <li>Optimized AFK system & moderation</li>
-          <li>Reworked blackjack logic and statistics</li>
-          <li>Stabilized command handling & listeners</li>
-          <li>Improved startup behavior and logging</li>
-          <li>Updated more user commands</li>
-        </ul>
-      </div>
-      <div class="changelog-card animated-card" data-dark="true">
-        <span class="changelog-icon" style="font-size: 2rem;">🌍</span>
+        <span class="changelog-icon" style="font-size: 2rem;">🌊</span>
         <strong>Bot Version</strong>
         <ul>
-          <li>1.8.8 (Stable)</li>
+          <li>1.0.0 (Released)</li>
         </ul>
       </div>
       <div class="changelog-card animated-card" data-dark="true">
         <span class="changelog-icon" style="font-size: 2rem;">📢</span>
         <strong>Notes</strong>
         <ul>
-          <li>Problems? <a href="https://github.com/Refreryo/refreryo-revolution.github.io/issues/new" class="contact-link" style="color: #7ecfff;">Create a GitHub Issue</a></li>
-          <li>Feedback & suggestions are welcome!</li>
+          <li>Shark Byte has just been released! Discover what the bot is capable of.</li>
+          <li>Having issues? <a href="https://github.com/Refreryo/refreryo-revolution.github.io/issues/new" class="contact-link" style="color: #7ecfff;">Create a GitHub Issue</a></li>
+          <li>Feedback &amp; suggestions are welcome!</li>
         </ul>
       </div>
     </div>
     <div class="highlight-area" style="margin-top: 2rem; padding: 1rem; border-left: 4px solid #7ecfff; background:rgba(126, 208, 255, 0.10); border-radius: 6px; font-style: italic; color: #fff;">
-      ***Thank you for your support – together we make Green Dino better!***
+      <strong>Thank you for your early support – together we make Shark Byte better!</strong><br><br>
+      Please note that some features may be expanded in future updates. If you have suggestions, feel free to join our Discord server.
     </div>
   </div>
 </div>

@@ -26,8 +26,11 @@
 ## Our Discord Bots
 
 <div class="bots-showcase">
+
   <div class="bot-card greendino">
-    <div class="bot-icon">🦖</div>
+    <div class="bot-icon">
+      <img src="assets/images/greendino.png" alt="Aviator" class="bot-image">
+    </div>
     <div class="bot-content">
       <h3>Green Dino</h3>
       <p>A comprehensive Discord bot with advanced features for larger servers.</p>
@@ -42,15 +45,17 @@
     </div>
     <div class="bot-content">
       <h3>Aviator</h3>
-      <p>This will be a secret 🤫</p>
-      <p>It is almost done!</p>
-      <p><strong>Status:</strong> <span class="badge early-alpha">EARLY ALPHA</span></p>
+      <p>Mediumsize Bot for users who like to check airports and airplanes and more</p>
+      <p><strong>Status:</strong> <span class="badge early-alpha">1.0.0</span></p>
       <a href="projects/aviator/" class="bot-button">Learn More</a>
     </div>
   </div>
   
+  <!--
   <div class="bot-card dinobyte">
-    <div class="bot-icon">🦕</div>
+    <div class="bot-icon">
+      <img src="assets/images/dinobyte.png" alt="Aviator" class="bot-image">
+    </div>
     <div class="bot-content">
       <h3>DinoByte</h3>
       <p>A small moderation and fun bot for Discord, perfect for small to medium communities.</p>
@@ -58,7 +63,19 @@
       <a href="projects/dinobyte/" class="bot-button">Learn More</a>
     </div>
   </div>
-</div>
+  -->
+
+<div class="bot-card aviator">
+    <div class="bot-icon">
+      <img src="assets/images/sharkbyte.png" alt="Aviator" class="bot-image">
+    </div>
+    <div class="bot-content">
+      <h3>Shark Byte</h3>
+      <p>A small moderation and fun bot for Discord, perfect for small to medium communities.</p>
+      <p><strong>Status:</strong> <span class="badge stable">1.0.0</span></p>
+      <a href="projects/aviator/" class="bot-button">Learn More</a>
+    </div>
+  </div>
 
 ## Key Features
 

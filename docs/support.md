@@ -20,8 +20,7 @@ If you're having trouble with one of our bots, here are some quick steps to try:
 
 ### Missing features?
 
-- DinoByte has fewer features than Green Dino by design
-- Some features may be disabled by default and need to be enabled
+You can suggest new commands or features directly on our Discord server—just let us know what you'd like to see!
 
 ## Contact Us
 

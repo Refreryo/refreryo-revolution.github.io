@@ -25,15 +25,6 @@ This repository contains the documentation for:
 
 ---
 
-
-### Invite 
-
-> [DinoByte](https://discord.com/oauth2/authorize?client_id=1358469975274295666)
-
-> [Green Dino](https://discord.com/oauth2/authorize?client_id=1346868529151873128)
-
----
-
 ### Contact
 
 For questions / support / problems:

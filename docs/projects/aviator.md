@@ -1,6 +1,6 @@
 # ✈️ Aviator
 
-<span class="badge early-alpha">EARLY ALPHA</span>
+<span class="badge early-alpha">1.0.0</span>
 
 ##   Introduction
 
@@ -21,9 +21,9 @@
 
 ### - First Commands
 
-`/help` - Shows all currently working commands
-`/info` - Shows information about the bot
-`/ping` - API ping response time
+- `/help` - Shows all currently working commands
+- `/info` - Shows information about the bot
+- `/ping` - API ping response time
 
 ---
 
