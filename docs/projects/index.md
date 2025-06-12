@@ -42,12 +42,12 @@
     </div>
   </div>
 </div> -->
-<div class="bot-card aviator">
-    <div class="bot-icon">
+<div class="bot-card sharkbyte" tabindex="0" aria-label="Shark Byte Bot">
+      <div class="bot-icon" style="background-color:#1976d2;">
       <img src="sharkbyte.png" alt="🦈" class="bot-image">
     </div>
     <div class="bot-content">
-      <h3>Shark Byte</h3>
+      <h3 style="color:#03a9f4;">Shark Byte</h3>
       <p>A small moderation and fun bot for Discord, perfect for small to medium communities.</p>
       <p><strong>Status:</strong> <span class="badge stable">1.0.0</span></p>
       <a href="sharkbyte" class="bot-button">Learn More</a>

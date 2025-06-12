@@ -51,22 +51,22 @@ theme:
     - content.tabs.link
     - content.code.copy
   palette:
-    # Light-Mode
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: green
-      accent: indigo
-      toggle:
-        icon: material/brightness-7
-        name: Switch to dark mode
+    # # Light-Mode
+    # - media: "(prefers-color-scheme: light)"
+    #   scheme: default
+    #   primary: green
+    #   accent: indigo
+    #   toggle:
+    #     icon: material/brightness-7
+    #     name: Switch to dark mode
     # Dark-Mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: green
       accent: indigo
-      toggle:
-        icon: material/brightness-4
-        name: Switch to light mode
+      # toggle:
+      #   icon: material/brightness-4
+      #   name: Switch to light mode
 
 # Extra
 extra:
@@ -90,12 +90,13 @@ nav:
     - SharkByte: projects/sharkbyte.md
   - Documentation:
     - Getting Started: docs/getting-started.md
+    - FAQ: docs/faq.md
     # - Command Reference: docs/commands.md
   - Changelogs:
     - GreenDino: changelogs/greendino-changelog.md
-    # - DinoByte: changelogs/dinobyte-changelog.md
     - Aviator: changelogs/aviator-changelog.md
     - SharkByte: changelogs/sharkbyte-changelog.md
+    # - DinoByte: changelogs/dinobyte-changelog.md
   - Feature Comparison: feature-comparison.md
   - Support: support.md
   - About: about.md
