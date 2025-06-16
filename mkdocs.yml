@@ -88,6 +88,7 @@ nav:
     - GreenDino: projects/greendino.md
     - Aviator: projects/aviator.md
     - SharkByte: projects/sharkbyte.md
+    - ModMops: projects/modmops.md
   - Documentation:
     - Getting Started: docs/getting-started.md
     - FAQ: docs/faq.md
