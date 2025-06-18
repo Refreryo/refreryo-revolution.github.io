@@ -74,7 +74,7 @@
         <h3>ModMops</h3>
         <p style="color:#fff;opacity:0.95;">Moderation &amp; Utility Bot</p>
         <p style="color:#fff;opacity:0.95;">Please read the <a href="/refreryo-revolution.github.io/docs/faq/">FAQ</a> for this Bot.</p>
-        <p><strong>Version:</strong> <span class="badge modmops-version">0.2</span></p>
+        <p><strong>Version:</strong> <span class="badge modmops-version">0.3</span></p>
         <a href="https://discord.com/oauth2/authorize?client_id=1383578297765462136" class="bot-button modmops-btn" aria-label="Invite ModMops">Invite</a>
       </div>
         </div>

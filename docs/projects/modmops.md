@@ -92,6 +92,33 @@ Alternativ kannst du dem Discord-Server beitreten und dein Problem dort schilder
 </div>
 
 ## BotVersion
+### Version 0.3
+<div class="release-cards-container">
+  <div class="release-card">
+      <div class="release-header">
+          <span class="release-version">0.3 | Update</span>
+          <span class="release-date">@ 18. Juni 2025</span>
+      </div>
+      <div class="release-content">
+          <p class="release-description">
+              🐶 <strong>Version 0.3 – Update</strong>
+          </p>
+          <div class="changelog-cards">
+              <div class="changelog-card animated-card" data-dark="true">
+                  <span class="changelog-icon">✏️</span>
+                  <strong>Änderungen / Problembehandlung</strong>
+                  <ul>
+                      <li>Fehler des Commands: /quiz /tictactoe /rps wurde behoben</li>
+                      <li>Button-ID Fehler behoben</li>
+                      <li>Pruge besitzt die Funktion um ältere Nachrichten zu löschen (Discord max löschbaren Nachrichten älter als 2 Wochen)</li>
+                      <li>Minimale Bugs sind noch vorhanden<sup>*1</sup></li>
+                  </ul>
+              </div>
+          </div>
+      </div>
+  </div>
+</div>
+
 ### Version 0.2
 <div class="release-cards-container">
   <div class="release-card">
