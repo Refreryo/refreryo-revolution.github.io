@@ -118,6 +118,46 @@ Welcome to the FAQ for our three Discord bots: **Green Dino**, **Shark Byte**, a
 
 ---
 
+## <span id="green-dino"></span>🐶 ModMops
+
+**ModMops** is a small german (only) side-project for small- medium sized community-servers.
+
+<div class="faq-section">
+    <div class="faq-item">
+        <button class="faq-question">What features does Green Dino offer?</button>
+        <div class="faq-answer">
+            - Moderation-tools<br>
+            - User & Admin Commands<br>
+            - Welcome messages & configuration<br>
+            - Games and other Utils<br>
+            - Config-Settings<br>
+            - Blacklist function
+        </div>
+    </div>
+    <div class="faq-item">
+        <button class="faq-question">How do I configure ModMops?</button>
+        <div class="faq-answer">
+            Use the <code>/help</code> command to get started
+        </div>
+    </div>
+</div>
+<a class="bot-link" href="https://discord.com/oauth2/authorize?client_id=1383578297765462136" target="_blank">🐶 Invite ModMops</a>
+
+!!! warning "Hinweis"
+    <div>
+        <span style="color: orange; font-weight: bold;">[GER]</span>
+        <span style="color:rgb(217, 98, 0); font-weight: bold;">
+            ModMops ist nur auf Deutsch verfügbar und erhält sehr, sehr niedrige Priorität sowie minimalen Support.
+        </span>
+        <br>
+        <span style="color: orange; font-weight: bold;">[ENG]</span>
+        <span style="color:rgb(217, 98, 0); font-weight: bold;">
+            ModMops is only available in German and receives very low priority and minimal support.
+        </span>
+    </div>
+
+---
+
 ## <span id="support"></span>Support
 
 Need help? Join our [Support Server](https://discord.gg/JA8VnRttNU) or check each bot’s page for documentation.

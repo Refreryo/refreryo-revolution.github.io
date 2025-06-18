@@ -41,8 +41,8 @@ Befehle funktionieren großteils nur mit Slashcommands | /help
 ### └ AdminCommands
 ```yaml
 /ban            [user]      [grund]
-/purge          [amount]   *[user]
-/timeout        [user]      [dauer]   [grund]
+/purge          [amount]    [delete_older]   *[user]
+/timeout        [user]      [dauer]           [grund]
 /warn           [user]      [grund]
 
 /welcome        [channel | message | toggle ]
@@ -75,12 +75,50 @@ Du kannst über GitHub ein Ticket erstellen und den Fehler beschreiben.
 Alternativ kannst du dem Discord-Server beitreten und dein Problem dort schildern.
 (Siehe Footer der Website und klicke auf das Discord-Symbol.)
 
-## ⚡ Quick-Link
-
+### ⚡ Quick-Link
+<!--
 - Erstelle ein Ticket [hier](https://github.com/Refreryo/refreryo-revolution.github.io/issues/new).
 - Trete dem [Offiziellen Discord](https://discord.gg/JA8VnRttNU) bei.
+-->
+
+<div class="changelog-card animated-card" data-dark="true">
+  <span class="changelog-icon">⚡</span>
+    <strong>Quick-Link</strong>
+      <ul>
+        <li>Probleme entdeckt? <a href="https://github.com/Refreryo/refreryo-revolution.github.io/issues/new" class="contact-link">Erstelle ein GitHub-Issue</a></li>
+        <li>Trete dem <a href="https://discord.gg/JA8VnRttNU" class="contact-link">Offiziellen Discord</a> bei.</li>
+        <li>Dein Feedback und deine Vorschläge sind jederzeit willkommen!</li>
+      </ul>
+</div>
 
 ## BotVersion
+### Version 0.2
+<div class="release-cards-container">
+  <div class="release-card">
+      <div class="release-header">
+          <span class="release-version">0.2 | Update</span>
+          <span class="release-date">@ 18. Juni 2025</span>
+      </div>
+      <div class="release-content">
+          <p class="release-description">
+              🐶 <strong>Version 0.2 – Update</strong>
+          </p>
+          <div class="changelog-cards">
+              <div class="changelog-card animated-card" data-dark="true">
+                  <span class="changelog-icon">✏️</span>
+                  <strong>Änderungen / Problembehandlung</strong>
+                  <ul>
+                      <li>Fehler des Commands: /help wurde behoben</li>
+                      <li>Funktionen wurden angepasst und sind nun besser nutzbar</li>
+                      <li>Pruge besitzt die Funktion um ältere Nachrichten zu löschen (Discord max löschbaren Nachrichten älter als 2 Wochen)</li>
+                      <li>Einige Bugs sind noch vorhanden<sup>*1</sup></li>
+                  </ul>
+              </div>
+          </div>
+      </div>
+  </div>
+</div>
+
 ### Version 0.1
 <div class="release-cards-container">
   <div class="release-card">
@@ -98,15 +136,7 @@ Alternativ kannst du dem Discord-Server beitreten und dein Problem dort schilder
                   <strong>Veröffentlichungsinfo</strong>
                   <ul>
                       <li>Der Bot beinhaltet die Moderationsfunktion von Discord & kann auch mit eigenen Einstellungen arbeiten</li>
-                      <li>Einige Bugs noch vorhanden<sup>*1</sup></li>
-                  </ul>
-              </div>
-              <div class="changelog-card animated-card" data-dark="true">
-                  <span class="changelog-icon">📢</span>
-                  <strong>Hinweise</strong>
-                  <ul>
-                      <li>Probleme entdeckt? <a href="https://github.com/Refreryo/refreryo-revolution.github.io/issues/new" class="contact-link">Erstelle ein GitHub-Issue</a></li>
-                      <li>Dein Feedback und deine Vorschläge sind jederzeit willkommen!</li>
+                      <li>Einige Bugs sind noch vorhanden<sup>*1</sup></li>
                   </ul>
               </div>
           </div>
