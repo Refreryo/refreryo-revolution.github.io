@@ -149,6 +149,12 @@
       <td><span class="status-circle status-not" title="Not available">✗</span></td>
       <td><span class="status-circle status-not" title="Not available">✗</span></td>
     </tr>
+    <tr>
+      <td>Advaned Blacklist</td>
+      <td><span class="status-circle status-available" title="Available">✓</span></td>
+      <td><span class="status-circle status-not" title="Not available">✗</span></td>
+      <td><span class="status-circle status-not" title="Not available">✗</span></td>
+    </tr>
   </tbody>
 </table>
 

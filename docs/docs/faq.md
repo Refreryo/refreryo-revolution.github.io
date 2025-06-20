@@ -52,8 +52,9 @@ Welcome to the FAQ for our three Discord bots: **Green Dino**, **Shark Byte**, a
             - Moderation-tools<br>
             - User & Admin Commands<br>
             - Welcome messages & configuration<br>
-            - Games and other Utils
-            - Bot-Structure
+            - Games and other Utils<br>
+            - Bot-Structure<br>
+            - Advanced Blacklist
         </div>
     </div>
     <div class="faq-item">

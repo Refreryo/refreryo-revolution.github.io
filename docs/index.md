@@ -37,7 +37,7 @@
       <div class="bot-content">
         <h3>Green Dino</h3>
         <p>A comprehensive Discord bot with advanced features for large servers.</p>
-        <p><strong>Version:</strong> <span class="badge stable">1.8.9</span></p>
+        <p><strong>Version:</strong> <span class="badge stable">1.9.0</span></p>
         <a href="projects/greendino/" class="bot-button" aria-label="Learn more about Green Dino">Learn more</a>
       </div>
         </div>

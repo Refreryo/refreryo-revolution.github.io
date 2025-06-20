@@ -1,6 +1,6 @@
 # 🦖 Green Dino
 
-<span class="badge stable">1.8.9</span>
+<span class="badge stable">1.9.0</span>
 
 ## Introduction
 
@@ -73,14 +73,22 @@
 
 ---
 
-### 🚨 Moderation
+### 🚨 Moderation [Update 1.9.0]
 
-| Slash Command   | Description                                   |
-|-----------------|-----------------------------------------------|
-| `/clear`        | Delete a specified number of messages [1-1000].|
-| `/ban`        | Kick a user from the server.                     |
-| `/kick`        | Kick a user from the server.                    |
-| `/warn`        | Warning actions with sub-commands.              |
+| Slash Command   | Description                                                           |
+|-----------------|-----------------------------------------------------------------------|
+| `/clear`        | Delete a specified number of messages [1-1000].                       |
+| `/ban`          | Kick a user from the server.                                          |
+| `/kick`         | Kick a user from the server.                                          |
+| `/warn`         | Warning actions with sub-commands.                                    |
+| `/advanced-blacklist` add | Add user to blacklist with sec. level                       |
+| `/advanced-blacklist` clear | Clear blacklist from your server                          |
+| `/advanced-blacklist` info | Get detailed info about a blacklisted user                 |
+| `/advanced-blacklist` list | Show all users in the blacklist entry                      |
+| `/advanced-blacklist` remove | Remove a user from the blacklist                         |
+| `/advanced-blacklist` set_logchannel | Set the channel for the blacklist logs           |
+| `/advanced-blacklist` stats | Show advanced stats                                       |
+| `/advanced-blacklist` update | Update the security level of a blacklisted user          |
 
 
 ---
