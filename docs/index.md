@@ -180,7 +180,7 @@
   </div>
 
   <div class="footer-note">
-    <p>Released under the <a href="license/">MIT License</a> • © 2025 Refreryo</p>
+    <p>Released under the <a href="license/">MIT License</a> • © 2025 SnuggleDino</p>
     <p style="margin-top:0.5rem; font-size:0.95em; color:#888;">
       <span style="font-size:1.1em;">🌐</span> <a href="#top" style="color:var(--primary-color);text-decoration:underline;">Back to top</a>
     </p>

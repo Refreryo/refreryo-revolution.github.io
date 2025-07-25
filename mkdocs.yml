@@ -1,14 +1,14 @@
-site_name: Refreryo's Revolution
+site_name: SnuggleDino's Revolution
 site_url: https://refreryo.github.io/refreryo-revolution.github.io/
 site_author: Refreryo
-site_description: Official documentation for Refreryo's Revolution Discord bots.
+site_description: Official documentation for SnuggleDino's Revolution Discord bots.
 
 # Repository
 repo_name: refreryo-revolution
 repo_url: https://github.com/Refreryo/refreryo-revolution.github.io
 
 # Copyright
-copyright: Copyright &copy; 2025 Refreryo
+copyright: Copyright &copy; 2025 SnuggleDino
 
 # Extensions
 markdown_extensions:
