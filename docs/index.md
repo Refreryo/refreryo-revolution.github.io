@@ -164,7 +164,7 @@
       <div class="contact-info">
         <h4>Discord</h4>
         <p>Join our community or message us directly!</p>
-        <a href="https://discord.gg/JA8VnRttNU" class="contact-link" aria-label="Join Discord">refreryo</a>
+        <a href="https://discord.gg/JA8VnRttNU" class="contact-link" aria-label="Join Discord">SnuggleDino</a>
       </div>
     </div>
     <div class="contact-card github" tabindex="0" aria-label="GitHub Contact">
